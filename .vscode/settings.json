@@ -1,0 +1,11 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.exclude": {},
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.tabCompletion": true,
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "javascript.validate.enable": false
+}
