@@ -2,3 +2,4 @@
 
 export * from './mongodb.helper';
 export * from './redis.helper';
+export * from './mysql.helper';
